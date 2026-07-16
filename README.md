@@ -46,7 +46,7 @@ This project demonstrates how to:
 ## Outcome
 
 <p align="center">
-  <img src="Images/output.png" alt="Project Output" width="900">
+  <img src="Images/Output.png" alt="Project Output" width="900">
 </p>
 
 ## 🎯 Features
